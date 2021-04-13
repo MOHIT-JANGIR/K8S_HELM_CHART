@@ -2,4 +2,4 @@ apiVersion: v1
 name: jenkins
 version: 0.1
 appVersion: 1.0
-description: creating chart for the setup of jenkins
+description: Creating Helm-Chart For the Setup Of Jenkins
