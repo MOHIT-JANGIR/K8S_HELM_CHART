@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  jenkins:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2021-04-14T09:52:54.9956991+05:30"
+    description: Creating Helm-Chart For the Setup Of Jenkins
+    digest: 7bceeadf2d2e13405490640046bcb865303d3b251006bbac7da3e745d12cb5c0
+    name: jenkins
+    urls:
+    - jenkins-0.1.tgz
+    version: "0.1"
+generated: "2021-04-14T09:52:54.9917799+05:30"
