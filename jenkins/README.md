@@ -19,7 +19,7 @@ _See [helm repo](https://helm.sh/docs/helm/helm_repo/) for command documentation
 
 ```console
 # Helm 3
-$ helm install [RELEASE_NAME] jenkins/charts [flags]
+$ helm install [RELEASE_NAME] jenkins/jenkins [flags]
 ```
 
 _See [configuration](#configuration) below._
@@ -41,7 +41,7 @@ _See [helm uninstall](https://helm.sh/docs/helm/helm_uninstall/) for command doc
 
 ```console
 # Helm 3
-$ helm upgrade [RELEASE_NAME] jenkins/charts [flags]
+$ helm upgrade [RELEASE_NAME] jenkins/jenkins [flags]
 ```
 
 _See [helm upgrade](https://helm.sh/docs/helm/helm_upgrade/) for command documentation._
